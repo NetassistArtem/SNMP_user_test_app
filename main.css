@@ -1,0 +1,33 @@
+
+ul, li {
+    list-style-type: none;
+}
+
+.war {
+    color: red;
+}
+.not {
+    color: #0000FF;
+}
+.inf {
+    color: #00cc00;
+}
+
+.pattern_form {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+.pattern_form table tr td p {
+    margin: 0;
+
+
+}
+.pattern_form div  {
+    text-align: right;
+}
+
+.content{
+    text-align: center;
+}
